@@ -128,6 +128,3 @@ react-agent-main/
 3. Make your changes
 4. Submit a pull request
 
-## License
-
-[Your License Here]
